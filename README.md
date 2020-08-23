@@ -1,0 +1,2 @@
+# Mutual-Fund-Parser
+I have a list of mutual funds that I want to get a price of. However, it is inefficient to search each one up individually and manually write the price. This script parses the internet for the price of each mutual fund and then stores it in a text file called MutualFund_Parser_Results.txt. This is then sent as an attachment to my email address.  The list of the Mutual Funds I want to parse through are stored in an excel file called MutualFund_Parser_Data
